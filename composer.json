@@ -1,7 +1,7 @@
 {
-  "name": "rubenarakelyan/NoTo0870",
+  "name": "rubenarakelyan/noto0870",
   "description": "PHP API to obtain alternatives to UK 0870 numbers from http://www.saynoto0870.co.uk/",
-  "homepage": "https://github.com/rubenarakelyan/NoTo0870",
+  "homepage": "https://github.com/rubenarakelyan/noto0870",
   "authors": [
     {
       "name": "Ruben Arakelyan",
